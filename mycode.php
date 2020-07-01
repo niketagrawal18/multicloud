@@ -1,4 +1,4 @@
-<body bgcolor='blue'>
+<body bgcolor='pink'>
 <pre>
 <?php
 print "welcome to vimal web server for testing";
